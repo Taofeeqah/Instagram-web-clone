@@ -76,10 +76,7 @@
     display: grid;
     padding: 10px 120px;
     margin-left: 280px;
-    /* grid-template-columns: 60% 40%;
-    grid-row-gap: 30px;
-    enter; */
-    /* margin-top: 35px; */
+    
   }
   .left-col {
     display: flex;
